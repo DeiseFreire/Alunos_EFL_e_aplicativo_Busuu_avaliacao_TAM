@@ -24,4 +24,4 @@
 
 ## 💕Tags
 
-#EFL, #Busuu, #Mobile #Learning, #TAM, #Aprendizagem-de-Idiomas, #Modelo-Aceitação-de-Tecnologia, #Inglês-Como-Segunda-Língua 
+#EFL #Busuu #Mobile #Learning #TAM #Aprendizagem-de-Idiomas #Modelo-Aceitação-de-Tecnologia #Inglês-Como-Segunda-Língua 
