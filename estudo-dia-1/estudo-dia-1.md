@@ -46,19 +46,3 @@ Segundo os autores, o TAM se mostrou um indicador confiável da receptividade do
 O Busuu se destaca como um aplicativo mobile de aprendizado de idiomas que oferece uma abordagem inovadora, combinando a autonomia do aprendizado individual com o apoio mútuo de uma rede social global de estudantes de idiomas, promovendo o aprendizado colaborativo e a troca de conhecimentos (Busuu, 2020).
 
 A Arábia Saudita se destaca entre as nações com maior índice de uso de celulares no planeta.
-
-## Daily
-
----
-
-[Movie List](https://www.notion.so/Movie-List-b80a417987f94406b53489249ec75d7d?pvs=21)
-
-[Recipes](https://www.notion.so/7748cd17e66349cdb620786e4a1980da?pvs=21)
-
-## Life
-
----
-
-[Yearly Goals](https://www.notion.so/Yearly-Goals-cb759ec7c2094d69818cb2949d48686b?pvs=21)
-
-[Travel Plans](https://www.notion.so/d9797d0600304193b00dea4eeeea6c60?pvs=21)
