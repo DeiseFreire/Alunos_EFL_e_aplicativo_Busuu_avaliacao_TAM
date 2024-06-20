@@ -33,6 +33,7 @@ O panorama educacional global foi redesenhado pela pandemia da COVID-19, exigind
 A modalidade de ensino à distância em casa exigiu uma reavaliação dos recursos educacionais online, a fim de garantir que fossem adequados às necessidades de alunos e professores nesse novo cenário.
 
 Portanto, torna-se evidente a relevância da integração da tecnologia, com destaque para os aplicativos móveis, no processo de aprendizagem, tanto para alunos quanto para professores.
+
 Com o aumento da popularidade da aprendizagem móvel (m-learning), pesquisadores se 
 
 dedicaram a explorar os objetivos e os fatores que podem influenciar a receptividade dos alunos a essa modalidade de ensino Al-Emran, Mezhuyev e Kamaludin (2018) e Laurillard (2007).
