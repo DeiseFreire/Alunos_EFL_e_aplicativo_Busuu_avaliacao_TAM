@@ -1,17 +1,32 @@
 # Dia 2
 
-Apesar da grande percentagem de utilizadores de telemóveis na Arábia Saudita, há poucos dados sobre como o mobile learning (m-learning) é utilizado pelos estudantes de EFL na Arábia Saudita (Seliaman & Al-Turki, 2012). O governo saudita está a fazendo grandes esforços para melhorar a utilização da tecnologia no sistema educativo, uma vez que reconhece a sua relevância.
+:dart: **Objetivo:**
 
-O objetivo deste estudo é investigar como os alunos sauditas de EFL percebem o uso do aplicativo Busuu para o aprendizado da língua inglesa, dada a crescente importância da tecnologia na educação, especialmente no aprendizado de idiomas assistido por dispositivos móveis (MALL). Também procura aumentar a consciência dos alunos de EFL sobre novas abordagens para a aprendizagem de línguas. Por fim, este estudo pode servir de base para pesquisas futuras sobre as perspectivas dos estudantes de EFL em relação à aquisição da linguagem por meio de aplicativos móveis.
+* Compreender as perspectivas dos alunos de inglês como língua estrangeira (EFL) sobre o uso de dispositivos móveis para aprender idiomas, com foco no aplicativo Busuu.
 
-Esta pesquisa se concentra em compreender as perspectivas dos estudantes de EFL sobre a aprendizagem de línguas assistida por dispositivos móveis (MALLs), particularmente suas experiências com o aplicativo Busuu. Especificamente, investiga:
+🔎 **Investigação:**
 
-Atitudes dos alunos EFL em relação aos MALLs em geral.
-Percepções dos alunos sobre o uso do Busuu para aprendizagem de idiomas.
-Avaliação dos alunos sobre a facilidade de uso do Busuu como ferramenta de aprendizagem.
-Avaliação dos alunos sobre a eficácia do Busuu no apoio à sua aprendizagem.
-Satisfação geral dos alunos com o Busuu em atender às suas expectativas de aprendizagem.
+* Atitudes dos alunos em relação à aprendizagem de idiomas com dispositivos móveis (MALLs) em geral.
+* Percepções sobre o uso do Busuu para aprender um idioma.
+* Avaliação da facilidade de uso do Busuu como ferramenta de aprendizagem.
+* Avaliação da eficácia do Busuu no apoio à aprendizagem.
+* Satisfação geral com o Busuu em atender às expectativas de aprendizagem.
 
-Uma forma de aprender línguas que combina dispositivos móveis com aprendizagem assistida por computador. O MALL deriva da aprendizagem móvel (m-learning), que, segundo alguns pesquisadores, oferece vários benefícios: os alunos podem aprender em qualquer lugar (mobilidade), conectar-se com outras pessoas (interação social), aprender com base no seu entorno (consciência do contexto) e permanecer conectados aos materiais de aprendizagem (conectividade). Estudos mostram que os alunos que aprendem inglês como língua estrangeira (EFL) tendem a gostar do MALL. 
+:memo: **Contexto:**
 
-Desde a sua introdução, os investigadores têm examinado o impacto das aplicações de aprendizagem de línguas na forma como os alunos de EFL percebem o processo de aprendizagem e nas suas competências linguísticas reais. Vários estudos (Castaneda & Cho, 2016; Kim, 2013; Rosell-Aguilar, 2016; Yildiz, 2012) demonstraram efeitos positivos na proficiência do aluno em EFL. No entanto, algumas pesquisas também sugerem potenciais desvantagens (Burston, 2014; Rosell-Aguilar, 2017).
+* MALLs combinam dispositivos móveis com aprendizagem assistida por computador.
+* O MALL oferece vantagens como mobilidade, interação social e conectividade constante com materiais de aprendizagem.
+* Estudos demonstram que os alunos de EFL geralmente apreciam o MALL.
+* Pesquisas indicam efeitos positivos na proficiência em EFL, mas também apontam para potenciais desvantagens.
+
+
+> [!TIP] **Observações:**
+>
+> * Este resumo fornece uma visão geral dos objetivos, tópicos de investigação e contexto da pesquisa.
+> * Os resultados e conclusões da pesquisa não estão descritos no resumo fornecido.
+> * Para obter mais detalhes, consulte a pesquisa original.
+
+
+> [!IMPORTANT]
+>
+> MALL, sigla para Mobile Assisted Language Learning, é um método de aprendizado de idiomas que utiliza dispositivos móveis, como smartphones e tablets, para complementar o ensino tradicional. Ele combina as vantagens da aprendizagem assistida por computador (CALL) com a mobilidade e flexibilidade do aprendizado móvel (m-learning).
