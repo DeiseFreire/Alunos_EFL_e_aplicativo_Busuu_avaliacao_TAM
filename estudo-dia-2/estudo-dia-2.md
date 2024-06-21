@@ -20,7 +20,7 @@
 * Pesquisas indicam efeitos positivos na proficiência em EFL, mas também apontam para potenciais desvantagens.
 
 
-> [!TIP] **Observações:**
+> [!TIP]
 >
 > * Este resumo fornece uma visão geral dos objetivos, tópicos de investigação e contexto da pesquisa.
 > * Os resultados e conclusões da pesquisa não estão descritos no resumo fornecido.
