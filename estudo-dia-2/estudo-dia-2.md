@@ -22,9 +22,9 @@
 
 > [!TIP]
 >
-> * Este resumo fornece uma visão geral dos objetivos, tópicos de investigação e contexto da pesquisa.
-> * Os resultados e conclusões da pesquisa não estão descritos no resumo fornecido.
-> * Para obter mais detalhes, consulte a pesquisa original.
+> * Este resumo faz parte da leitura do artigo.
+> * Os resultados e conclusões estão no artigo.
+> * Para obter mais detalhes, consulte o artigo original.
 
 
 > [!IMPORTANT]
