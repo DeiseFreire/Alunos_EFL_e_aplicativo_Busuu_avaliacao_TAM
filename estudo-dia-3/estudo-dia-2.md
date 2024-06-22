@@ -1,21 +1,19 @@
 # Dia 3
 
-## Resumo do Texto:
+> **Introdução**
+>
+> * Escassez de pesquisas sobre o uso de aplicativos de línguas, especialmente entre alunos de EFL.
+> * Modelo TAM (Technology Acceptance Model) e seus fatores: utilidade percebida e facilidade de uso percebida.
+> * Apresentação do Busuu: aplicativo de idiomas com mais de 100 milhões de usuários.
 
-**Introdução:**
-
-* Escassez de pesquisas sobre o uso de aplicativos de línguas na Arábia Saudita, especialmente entre alunos de EFL.
-* Modelo TAM (Technology Acceptance Model) e seus fatores: utilidade percebida e facilidade de uso percebida.
-* Apresentação do Busuu: aplicativo de idiomas com mais de 100 milhões de usuários.
-
-**O Busuu:**
+**O Busuu**
 
 * Oferece cursos em 12 idiomas e certificação oficial em parceria com a McGraw-Hill Education.
 * Baseado no Quadro Europeu Comum de Referência (QECR).
 * Habilidades: falar, escrever, ler, ouvir, tradução e vocabulário.
 * Oportunidade de praticar com falantes nativos.
 
-**Pesquisas sobre o Busuu:**
+**Pesquisas sobre o Busuu**
 
 * **Kétyi (2013):**
     * Estudantes húngaros de alemão usaram o Busuu por uma semana.
@@ -34,7 +32,7 @@
     * App útil para estudar em qualquer lugar.
     * Tornou os alunos mais independentes.
 
-**Conclusão:**
+**Conclusão**
 
 * Poucas pesquisas aprofundadas sobre o Busuu, mas estudos sugerem que é uma plataforma de aprendizado de idiomas útil.
-* Mais pesquisas são necessárias para entender melhor a efetividade do Busuu no contexto da Arábia Saudita.
+* Mais pesquisas são necessárias para entender melhor a efetividade do Busuu.
