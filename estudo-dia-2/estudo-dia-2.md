@@ -19,14 +19,13 @@
 * Estudos demonstram que os alunos de EFL geralmente apreciam o MALL.
 * Pesquisas indicam efeitos positivos na proficiência em EFL, mas também apontam para potenciais desvantagens.
 
-
-> [!TIP]
->
-> * Este resumo faz parte da leitura do artigo.
-> * Os resultados e conclusões estão no artigo.
-> * Para obter mais detalhes, consulte o artigo original.
-
-
 > [!IMPORTANT]
+> ## 🏗️ Artigo Em Estudo
+> 
+> ALDAKHIL, Mada; ALFADDA, Hind. EFL Learners' Perceptions Regarding the 
+> Use of Busuu Application in Language Learning: Evaluating the Technology
+> Acceptance Model (TAM). English Language Teaching, v. 15, n. 1, p. 1-15, 2022.
+
+> [!WARNING]
 >
 > MALL, sigla para Mobile Assisted Language Learning, é um método de aprendizado de idiomas que utiliza dispositivos móveis, como smartphones e tablets, para complementar o ensino tradicional. Ele combina as vantagens da aprendizagem assistida por computador (CALL) com a mobilidade e flexibilidade do aprendizado móvel (m-learning).
