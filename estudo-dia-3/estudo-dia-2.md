@@ -1,6 +1,12 @@
 # Dia 3
 
-> **Introdução**
+[![Busuu](https://img.shields.io/badge/Busuu-Aprendendo-blue.svg)](https://www.busuu.com/)
+
+<img src="https://github.com/DeiseFreire/Alunos_EFL_e_aplicativo_Busuu_avaliacao_TAM/assets/51007898/192a82c1-a71f-4eae-9adf-859a93484d16" min-width="50px" max-width="50px" width="50px" align="right">
+
+
+
+> **Introdução** 
 >
 > * Escassez de pesquisas sobre o uso de aplicativos de línguas, especialmente entre alunos de EFL.
 > * Modelo TAM (Technology Acceptance Model) e seus fatores: utilidade percebida e facilidade de uso percebida.
