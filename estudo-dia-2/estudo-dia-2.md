@@ -29,3 +29,5 @@
 > [!WARNING]
 >
 > MALL, sigla para Mobile Assisted Language Learning, é um método de aprendizado de idiomas que utiliza dispositivos móveis, como smartphones e tablets, para complementar o ensino tradicional. Ele combina as vantagens da aprendizagem assistida por computador (CALL) com a mobilidade e flexibilidade do aprendizado móvel (m-learning).
+>
+> EFL, English as a Foreign Language ou Inglês como Língua Estrangeira.
