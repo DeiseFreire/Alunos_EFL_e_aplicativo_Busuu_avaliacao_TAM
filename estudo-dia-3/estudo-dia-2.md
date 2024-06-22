@@ -37,8 +37,3 @@
     * Alunos de EFL usando o Busuu.
     * App útil para estudar em qualquer lugar.
     * Tornou os alunos mais independentes.
-
-**Conclusão**
-
-* Poucas pesquisas aprofundadas sobre o Busuu, mas estudos sugerem que é uma plataforma de aprendizado de idiomas útil.
-* Mais pesquisas são necessárias para entender melhor a efetividade do Busuu.
