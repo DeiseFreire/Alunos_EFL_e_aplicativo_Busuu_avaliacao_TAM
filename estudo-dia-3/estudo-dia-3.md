@@ -1,6 +1,6 @@
 # Dia 3
 
-[![Busuu](https://img.shields.io/badge/Busuu-Aprendendo-blue.svg)](https://www.busuu.com/)
+[![Busuu](https://img.shields.io/badge/Busuu-Idiomas-blue.svg)](https://www.busuu.com/)
 
 > **Introdução** 
 >
