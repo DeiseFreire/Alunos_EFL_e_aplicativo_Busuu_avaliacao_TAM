@@ -1,5 +1,7 @@
 # Dia 2
 
+[![Busuu](https://img.shields.io/badge/Busuu-Idiomas-blue.svg)](https://www.busuu.com/)
+
 :dart: **Objetivo:**
 
 * Compreender as perspectivas dos alunos de inglês como língua estrangeira (EFL) sobre o uso de dispositivos móveis para aprender idiomas, com foco no aplicativo Busuu.
