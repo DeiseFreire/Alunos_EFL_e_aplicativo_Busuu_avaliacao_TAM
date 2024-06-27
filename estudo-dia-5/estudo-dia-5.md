@@ -1,6 +1,6 @@
 # Dia 5 
 
-<a href="https://www.busuu.com" target="blank"><img align="center" src="https://github.com/DeiseFreire/Alunos_EFL_e_aplicativo_Busuu_avaliacao_TAM/assets/51007898/330b3bab-75c2-4ecd-879f-d83f94266f70" alt="deise freire" height="30" width="30" /></a>
+[![Busuu](https://img.shields.io/badge/Busuu-Idiomas-blue.svg)](https://www.busuu.com/)
 
 💕 Os alunos consideraram os telemóveis uma ferramenta útil e portátil para aprender inglês (classificação média acima de 4 numa escala de 5 pontos).
 
