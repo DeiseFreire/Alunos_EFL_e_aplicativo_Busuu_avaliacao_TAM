@@ -15,3 +15,5 @@
 💕 Isto reflectiu na preferência por uma abordagem de aprendizagem mista que combinasse métodos tradicionais com tecnologia móvel, em vez de um ambiente de sala de aula tradicional.
 
 > Citação 3: “Com certeza eu escolheria a turma que utiliza telefone, pois posso voltar às aulas quando quiser, ao contrário da sala de aula tradicional.” [Participante A]
+
+> Citação 4: “Claro, porque poderei aprender novas informações e não depender apenas do livro escolar.”[Participante c]
