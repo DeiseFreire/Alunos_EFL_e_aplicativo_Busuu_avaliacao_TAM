@@ -24,3 +24,7 @@
 
 > Citação 7: Acho que leva tempo e, ao mesmo tempo, gosto disso.” [participante A]
 
+💕 A pergunta final explorou o interesse dos participantes em continuar aprendendo inglês com o Busuu. 
+
+💕 A maioria dos participantes manifestou forte interesse em ser assinante premium do Busuu.
+
