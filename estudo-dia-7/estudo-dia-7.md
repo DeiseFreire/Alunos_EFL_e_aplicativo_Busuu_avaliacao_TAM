@@ -19,3 +19,8 @@
 > Citação 4: “Claro, porque poderei aprender novas informações e não depender apenas do livro escolar.”[Participante c]
 
 > Citação 5: “claro, juntos porque vai ser mais fácil”. [Participante d]
+
+> Citação 6: “[...] Estamos em uma década em que a tecnologia é uma parte importante da nossa vida [...] então eu acho que é muito bom, em vez da maneira tradicional e chata [...] podemos realmente usar a tecnologia de uma boa maneira.” [Participante E]
+
+> Citação 7: Acho que leva tempo e, ao mesmo tempo, gosto disso.” [participante A]
+
