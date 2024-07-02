@@ -4,7 +4,7 @@
 
 > Citação: “Posso voltar às aulas quando quiser.” [participante B]
 
-💕 No entanto, um aluno reclamou do conta premium do aplicativo Busuu por ser pago.
+💕 Um aluno reclamou da conta premium do aplicativo Busuu por ser pago.
 
 > Citação: "[...] Não tenho muito dinheiro." [participante E]
 
