@@ -23,3 +23,4 @@
 💕 Os estudantes disseram que o Busuu lhes deu mais controle sobre seu aprendizado, permitindo que fossem mais responsáveis ​​por seu progresso.
 
 > Citação: "bom, acredito que se alguém quiser aprender um idioma, deve aprender sozinho. Por exemplo, abrir um aplicativo de idiomas em vez de ir a centros de aprendizagem de idiomas, por exemplo, o que considero uma perda de tempo. Eu mesmo no ano passado fiz um curso de idiomas em um escola de idiomas que não me trouxe muitos benefícios." [participante B]
+
