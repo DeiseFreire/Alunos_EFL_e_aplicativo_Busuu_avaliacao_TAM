@@ -1,4 +1,4 @@
-# Dia 7
+# Dia 8
 
 💕 Na pesquisa, os participantes relataram experiências positivas com o uso do Busuu e descreveram o processo de aprendizagem do idioma como divertido.
 
