@@ -10,6 +10,8 @@
 
 💕 Isto sugere que os participantes estão bastante interessados ​​em usar o Busuu.
 
-💕 De acordo com a Tabela 7, as pessoas avaliaram a facilidade de uso do Busuu como a mais alta (pontuação média: 4,32). 
+💕 De acordo com a pesquisa, os participantes avaliaram a facilidade de uso do Busuu como a mais alta (pontuação média: 4,32). 
 
-💕 Isto foi seguido pela utilidade (pontuação média: 4,04), expectativas futuras (pontuação média: 3,91) e eficácia do MALL como ferramenta de aprendizagem (pontuação média: 3,81). Curiosamente, a avaliação geral do Busuu foi a mais baixa (pontuação média: 3,59).
+💕 Isto foi seguido pela utilidade (pontuação média: 4,04), expectativas futuras (pontuação média: 3,91) e eficácia do MALL como ferramenta de aprendizagem (pontuação média: 3,81). 
+
+💕 Curiosamente, a avaliação geral do Busuu foi a mais baixa (pontuação média: 3,59).
