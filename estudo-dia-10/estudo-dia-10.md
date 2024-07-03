@@ -27,7 +27,3 @@
 > Percepção de facilidade de uso: A medida em que as pessoas acreditam que a tecnologia será fácil de usar.
 > 
 > Percepção de risco: A medida em que as pessoas acreditam que a tecnologia tem riscos associados a ela.
-> 
-> No estudo que você mencionou, os resultados da pesquisa sugerem que o Busuu é percebido como uma ferramenta de aprendizado fácil de usar e útil.
->
-> Isso está de acordo com o modelo TAM e indica que o Busuu tem o potencial de ser amplamente aceito pelos alunos.
