@@ -1,5 +1,7 @@
 # Dia 10
 
+[![Busuu](https://img.shields.io/badge/Busuu-Idiomas-blue.svg)](https://www.busuu.com/)
+
 💕 O estudo descobriu que os alunos geralmente gostam de usar o Busuu. 
 
 💕 Os alunos gostaram dos recursos do aplicativo. 
