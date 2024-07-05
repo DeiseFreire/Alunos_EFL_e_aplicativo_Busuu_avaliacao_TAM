@@ -1,6 +1,12 @@
+<img src="https://github.com/DeiseFreire/Alunos_EFL_e_aplicativo_Busuu_avaliacao_TAM/assets/51007898/71548203-4173-4707-b980-ed8c10bf2540" 
+min-width="80px" 
+max-width="80px" 
+width="80px" 
+align="center"> 
+
 > [!NOTE]
 > ## **Estudo da percepções de Aprendizes de EFL sobre o Uso do Aplicativo Busuu no Aprendizado de Línguas**
-> Avaliando o Modelo de Aceitação da Tecnologia (TAM)
+> Avaliando o Modelo de Aceitação da Tecnologia (TAM) 
 
 > [!IMPORTANT]
 > ## 🏗️ Artigo Em Estudo
