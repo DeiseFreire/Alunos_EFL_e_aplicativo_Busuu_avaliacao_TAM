@@ -9,7 +9,8 @@ align="center">
 > Avaliando o Modelo de Aceitação da Tecnologia (TAM) 
 
 > [!IMPORTANT]
-> ## 🏗️ Artigo Em Estudo
+> ## 🏗️ Artigo Estudado
+
 > 
 > ALDAKHIL, Mada; ALFADDA, Hind. EFL Learners' Perceptions Regarding the 
 > Use of Busuu Application in Language Learning: Evaluating the Technology
