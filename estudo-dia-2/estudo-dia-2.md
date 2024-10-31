@@ -22,7 +22,7 @@
 * Pesquisas indicam efeitos positivos na proficiência em EFL, mas também apontam para potenciais desvantagens.
 
 > [!IMPORTANT]
-> ## 🏗️ Artigo Em Estudo
+> ## 🏗️ Artigo Estudado
 > 
 > ALDAKHIL, Mada; ALFADDA, Hind. EFL Learners' Perceptions Regarding the 
 > Use of Busuu Application in Language Learning: Evaluating the Technology
